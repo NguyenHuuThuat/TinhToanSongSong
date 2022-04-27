@@ -1,0 +1,266 @@
+2021-04-12 14:47:12,387 [1] DEBUG Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:Main:110] - PiCalc started.
+
+2021-04-12 14:47:12,394 [GAppStarterThread] DEBUG Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:LogHandler:126] - ExecutionContext:Run():0 - This is not a multi-use GApplication
+
+2021-04-12 14:47:12,446 [GAppStarterThread] DEBUG Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:LogHandler:126] - GApplication:StartApplication():0 - GApp credentials appId: , username: user
+
+2021-04-12 14:47:12,447 [GAppStarterThread] DEBUG Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:LogHandler:126] - GApplication:StartApplication():0 - Not initted. Initting GApp...
+
+2021-04-12 14:47:12,460 [GAppStarterThread] DEBUG Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:LogHandler:126] - ExecutionContext:Run():0 - StartApplication GApp...fa0df984-d077-46c9-89d7-0a9c1b2e337e with 20 threads.
+
+2021-04-12 14:47:12,460 [GAppStarterThread] DEBUG Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:LogHandler:126] - ExecutionContext:Run():0 - Enter Thread Lock to SetThreads On Manager...GApp fa0df984-d077-46c9-89d7-0a9c1b2e337e
+
+2021-04-12 14:47:12,511 [GAppStarterThread] DEBUG Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:LogHandler:126] - ExecutionContext:Run():0 - Exit Thread Lock. Finished setting threads on Manager...GApp fa0df984-d077-46c9-89d7-0a9c1b2e337e
+
+2021-04-12 14:47:12,512 [GAppStarterThread] DEBUG Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:LogHandler:126] - GApplication:StartApplication():0 - Starting a thread to get finished threads...
+
+2021-04-12 14:47:12,518 [MonitorThread] INFO  Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:LogHandler:129] - GetFinishedThreads thread started.
+
+2021-04-12 14:47:20,315 [MonitorThread] DEBUG Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:LogHandler:126] - ExecutionContext:Run():0 - Threads finished this poll...1
+
+2021-04-12 14:47:20,316 [MonitorThread] DEBUG Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:LogHandler:126] - ExecutionContext:Run():0 - Total Threads finished so far...1
+
+2021-04-12 14:47:20,320 [MonitorThread] DEBUG Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:LogHandler:126] - ExecutionContext:Run():0 - Thread completed successfully:2
+
+2021-04-12 14:47:20,321 [MonitorThread] DEBUG Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:LogHandler:126] - GApplication:GetFinishedThreads():0 - Raising thread finish event...
+
+2021-04-12 14:47:21,035 [MonitorThread] DEBUG Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:LogHandler:126] - ExecutionContext:Run():0 - Threads finished this poll...0
+
+2021-04-12 14:47:21,035 [MonitorThread] DEBUG Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:LogHandler:126] - ExecutionContext:Run():0 - Total Threads finished so far...1
+
+2021-04-12 14:47:21,739 [MonitorThread] DEBUG Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:LogHandler:126] - ExecutionContext:Run():0 - Threads finished this poll...1
+
+2021-04-12 14:47:21,739 [MonitorThread] DEBUG Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:LogHandler:126] - ExecutionContext:Run():0 - Total Threads finished so far...2
+
+2021-04-12 14:47:21,740 [MonitorThread] DEBUG Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:LogHandler:126] - ExecutionContext:Run():0 - Thread completed successfully:1
+
+2021-04-12 14:47:21,740 [MonitorThread] DEBUG Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:LogHandler:126] - GApplication:GetFinishedThreads():0 - Raising thread finish event...
+
+2021-04-12 14:47:22,447 [MonitorThread] DEBUG Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:LogHandler:126] - ExecutionContext:Run():0 - Threads finished this poll...0
+
+2021-04-12 14:47:22,447 [MonitorThread] DEBUG Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:LogHandler:126] - ExecutionContext:Run():0 - Total Threads finished so far...2
+
+2021-04-12 14:47:23,157 [MonitorThread] DEBUG Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:LogHandler:126] - ExecutionContext:Run():0 - Threads finished this poll...1
+
+2021-04-12 14:47:23,158 [MonitorThread] DEBUG Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:LogHandler:126] - ExecutionContext:Run():0 - Total Threads finished so far...3
+
+2021-04-12 14:47:23,160 [MonitorThread] DEBUG Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:LogHandler:126] - ExecutionContext:Run():0 - Thread completed successfully:0
+
+2021-04-12 14:47:23,160 [MonitorThread] DEBUG Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:LogHandler:126] - GApplication:GetFinishedThreads():0 - Raising thread finish event...
+
+2021-04-12 14:47:23,864 [MonitorThread] DEBUG Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:LogHandler:126] - ExecutionContext:Run():0 - Threads finished this poll...0
+
+2021-04-12 14:47:23,864 [MonitorThread] DEBUG Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:LogHandler:126] - ExecutionContext:Run():0 - Total Threads finished so far...3
+
+2021-04-12 14:47:24,573 [MonitorThread] DEBUG Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:LogHandler:126] - ExecutionContext:Run():0 - Threads finished this poll...0
+
+2021-04-12 14:47:24,573 [MonitorThread] DEBUG Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:LogHandler:126] - ExecutionContext:Run():0 - Total Threads finished so far...3
+
+2021-04-12 14:47:25,276 [MonitorThread] DEBUG Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:LogHandler:126] - ExecutionContext:Run():0 - Threads finished this poll...0
+
+2021-04-12 14:47:25,277 [MonitorThread] DEBUG Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:LogHandler:126] - ExecutionContext:Run():0 - Total Threads finished so far...3
+
+2021-04-12 14:47:25,985 [MonitorThread] DEBUG Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:LogHandler:126] - ExecutionContext:Run():0 - Threads finished this poll...0
+
+2021-04-12 14:47:25,985 [MonitorThread] DEBUG Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:LogHandler:126] - ExecutionContext:Run():0 - Total Threads finished so far...3
+
+2021-04-12 14:47:26,691 [MonitorThread] DEBUG Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:LogHandler:126] - ExecutionContext:Run():0 - Threads finished this poll...1
+
+2021-04-12 14:47:26,691 [MonitorThread] DEBUG Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:LogHandler:126] - ExecutionContext:Run():0 - Total Threads finished so far...4
+
+2021-04-12 14:47:26,693 [MonitorThread] DEBUG Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:LogHandler:126] - ExecutionContext:Run():0 - Thread completed successfully:3
+
+2021-04-12 14:47:26,693 [MonitorThread] DEBUG Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:LogHandler:126] - GApplication:GetFinishedThreads():0 - Raising thread finish event...
+
+2021-04-12 14:47:27,395 [MonitorThread] DEBUG Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:LogHandler:126] - ExecutionContext:Run():0 - Threads finished this poll...0
+
+2021-04-12 14:47:27,395 [MonitorThread] DEBUG Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:LogHandler:126] - ExecutionContext:Run():0 - Total Threads finished so far...4
+
+2021-04-12 14:47:29,529 [MonitorThread] DEBUG Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:LogHandler:126] - ExecutionContext:Run():0 - Threads finished this poll...1
+
+2021-04-12 14:47:29,529 [MonitorThread] DEBUG Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:LogHandler:126] - ExecutionContext:Run():0 - Total Threads finished so far...5
+
+2021-04-12 14:47:29,531 [MonitorThread] DEBUG Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:LogHandler:126] - ExecutionContext:Run():0 - Thread completed successfully:5
+
+2021-04-12 14:47:29,532 [MonitorThread] DEBUG Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:LogHandler:126] - GApplication:GetFinishedThreads():0 - Raising thread finish event...
+
+2021-04-12 14:47:30,244 [MonitorThread] DEBUG Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:LogHandler:126] - ExecutionContext:Run():0 - Threads finished this poll...1
+
+2021-04-12 14:47:30,248 [MonitorThread] DEBUG Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:LogHandler:126] - ExecutionContext:Run():0 - Total Threads finished so far...6
+
+2021-04-12 14:47:30,250 [MonitorThread] DEBUG Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:LogHandler:126] - ExecutionContext:Run():0 - Thread completed successfully:4
+
+2021-04-12 14:47:30,251 [MonitorThread] DEBUG Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:LogHandler:126] - GApplication:GetFinishedThreads():0 - Raising thread finish event...
+
+2021-04-12 14:47:33,782 [MonitorThread] DEBUG Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:LogHandler:126] - ExecutionContext:Run():0 - Threads finished this poll...1
+
+2021-04-12 14:47:33,782 [MonitorThread] DEBUG Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:LogHandler:126] - ExecutionContext:Run():0 - Total Threads finished so far...7
+
+2021-04-12 14:47:33,785 [MonitorThread] DEBUG Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:LogHandler:126] - ExecutionContext:Run():0 - Thread completed successfully:6
+
+2021-04-12 14:47:33,786 [MonitorThread] DEBUG Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:LogHandler:126] - GApplication:GetFinishedThreads():0 - Raising thread finish event...
+
+2021-04-12 14:47:35,195 [MonitorThread] DEBUG Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:LogHandler:126] - ExecutionContext:Run():0 - Threads finished this poll...1
+
+2021-04-12 14:47:35,195 [MonitorThread] DEBUG Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:LogHandler:126] - ExecutionContext:Run():0 - Total Threads finished so far...8
+
+2021-04-12 14:47:35,197 [MonitorThread] DEBUG Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:LogHandler:126] - ExecutionContext:Run():0 - Thread completed successfully:7
+
+2021-04-12 14:47:35,197 [MonitorThread] DEBUG Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:LogHandler:126] - GApplication:GetFinishedThreads():0 - Raising thread finish event...
+
+2021-04-12 14:47:35,901 [MonitorThread] DEBUG Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:LogHandler:126] - ExecutionContext:Run():0 - Threads finished this poll...0
+
+2021-04-12 14:47:35,901 [MonitorThread] DEBUG Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:LogHandler:126] - ExecutionContext:Run():0 - Total Threads finished so far...8
+
+2021-04-12 14:47:36,608 [MonitorThread] DEBUG Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:LogHandler:126] - ExecutionContext:Run():0 - Threads finished this poll...0
+
+2021-04-12 14:47:36,608 [MonitorThread] DEBUG Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:LogHandler:126] - ExecutionContext:Run():0 - Total Threads finished so far...8
+
+2021-04-12 14:47:37,317 [MonitorThread] DEBUG Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:LogHandler:126] - ExecutionContext:Run():0 - Threads finished this poll...0
+
+2021-04-12 14:47:37,317 [MonitorThread] DEBUG Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:LogHandler:126] - ExecutionContext:Run():0 - Total Threads finished so far...8
+
+2021-04-12 14:47:38,018 [MonitorThread] DEBUG Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:LogHandler:126] - ExecutionContext:Run():0 - Threads finished this poll...0
+
+2021-04-12 14:47:38,019 [MonitorThread] DEBUG Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:LogHandler:126] - ExecutionContext:Run():0 - Total Threads finished so far...8
+
+2021-04-12 14:47:38,728 [MonitorThread] DEBUG Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:LogHandler:126] - ExecutionContext:Run():0 - Threads finished this poll...1
+
+2021-04-12 14:47:38,728 [MonitorThread] DEBUG Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:LogHandler:126] - ExecutionContext:Run():0 - Total Threads finished so far...9
+
+2021-04-12 14:47:38,730 [MonitorThread] DEBUG Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:LogHandler:126] - ExecutionContext:Run():0 - Thread completed successfully:8
+
+2021-04-12 14:47:38,731 [MonitorThread] DEBUG Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:LogHandler:126] - GApplication:GetFinishedThreads():0 - Raising thread finish event...
+
+2021-04-12 14:47:39,434 [MonitorThread] DEBUG Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:LogHandler:126] - ExecutionContext:Run():0 - Threads finished this poll...0
+
+2021-04-12 14:47:39,435 [MonitorThread] DEBUG Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:LogHandler:126] - ExecutionContext:Run():0 - Total Threads finished so far...9
+
+2021-04-12 14:47:40,148 [MonitorThread] DEBUG Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:LogHandler:126] - ExecutionContext:Run():0 - Threads finished this poll...1
+
+2021-04-12 14:47:40,148 [MonitorThread] DEBUG Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:LogHandler:126] - ExecutionContext:Run():0 - Total Threads finished so far...10
+
+2021-04-12 14:47:40,149 [MonitorThread] DEBUG Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:LogHandler:126] - ExecutionContext:Run():0 - Thread completed successfully:9
+
+2021-04-12 14:47:40,150 [MonitorThread] DEBUG Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:LogHandler:126] - GApplication:GetFinishedThreads():0 - Raising thread finish event...
+
+2021-04-12 14:47:40,860 [MonitorThread] DEBUG Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:LogHandler:126] - ExecutionContext:Run():0 - Threads finished this poll...1
+
+2021-04-12 14:47:40,860 [MonitorThread] DEBUG Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:LogHandler:126] - ExecutionContext:Run():0 - Total Threads finished so far...11
+
+2021-04-12 14:47:40,862 [MonitorThread] DEBUG Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:LogHandler:126] - ExecutionContext:Run():0 - Thread completed successfully:10
+
+2021-04-12 14:47:40,862 [MonitorThread] DEBUG Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:LogHandler:126] - GApplication:GetFinishedThreads():0 - Raising thread finish event...
+
+2021-04-12 14:47:41,572 [MonitorThread] DEBUG Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:LogHandler:126] - ExecutionContext:Run():0 - Threads finished this poll...0
+
+2021-04-12 14:47:41,572 [MonitorThread] DEBUG Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:LogHandler:126] - ExecutionContext:Run():0 - Total Threads finished so far...11
+
+2021-04-12 14:47:42,281 [MonitorThread] DEBUG Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:LogHandler:126] - ExecutionContext:Run():0 - Threads finished this poll...0
+
+2021-04-12 14:47:42,281 [MonitorThread] DEBUG Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:LogHandler:126] - ExecutionContext:Run():0 - Total Threads finished so far...11
+
+2021-04-12 14:47:46,539 [MonitorThread] DEBUG Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:LogHandler:126] - ExecutionContext:Run():0 - Threads finished this poll...2
+
+2021-04-12 14:47:46,539 [MonitorThread] DEBUG Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:LogHandler:126] - ExecutionContext:Run():0 - Total Threads finished so far...13
+
+2021-04-12 14:47:46,540 [MonitorThread] DEBUG Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:LogHandler:126] - ExecutionContext:Run():0 - Thread completed successfully:12
+
+2021-04-12 14:47:46,540 [MonitorThread] DEBUG Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:LogHandler:126] - GApplication:GetFinishedThreads():0 - Raising thread finish event...
+
+2021-04-12 14:47:46,544 [MonitorThread] DEBUG Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:LogHandler:126] - ExecutionContext:Run():0 - Thread completed successfully:13
+
+2021-04-12 14:47:46,544 [MonitorThread] DEBUG Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:LogHandler:126] - GApplication:GetFinishedThreads():0 - Raising thread finish event...
+
+2021-04-12 14:47:47,958 [MonitorThread] DEBUG Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:LogHandler:126] - ExecutionContext:Run():0 - Threads finished this poll...1
+
+2021-04-12 14:47:47,958 [MonitorThread] DEBUG Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:LogHandler:126] - ExecutionContext:Run():0 - Total Threads finished so far...14
+
+2021-04-12 14:47:47,960 [MonitorThread] DEBUG Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:LogHandler:126] - ExecutionContext:Run():0 - Thread completed successfully:11
+
+2021-04-12 14:47:47,961 [MonitorThread] DEBUG Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:LogHandler:126] - GApplication:GetFinishedThreads():0 - Raising thread finish event...
+
+2021-04-12 14:47:50,781 [MonitorThread] DEBUG Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:LogHandler:126] - ExecutionContext:Run():0 - Threads finished this poll...0
+
+2021-04-12 14:47:50,781 [MonitorThread] DEBUG Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:LogHandler:126] - ExecutionContext:Run():0 - Total Threads finished so far...14
+
+2021-04-12 14:47:51,491 [MonitorThread] DEBUG Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:LogHandler:126] - ExecutionContext:Run():0 - Threads finished this poll...0
+
+2021-04-12 14:47:51,491 [MonitorThread] DEBUG Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:LogHandler:126] - ExecutionContext:Run():0 - Total Threads finished so far...14
+
+2021-04-12 14:47:52,198 [MonitorThread] DEBUG Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:LogHandler:126] - ExecutionContext:Run():0 - Threads finished this poll...2
+
+2021-04-12 14:47:52,198 [MonitorThread] DEBUG Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:LogHandler:126] - ExecutionContext:Run():0 - Total Threads finished so far...16
+
+2021-04-12 14:47:52,201 [MonitorThread] DEBUG Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:LogHandler:126] - ExecutionContext:Run():0 - Thread completed successfully:14
+
+2021-04-12 14:47:52,201 [MonitorThread] DEBUG Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:LogHandler:126] - GApplication:GetFinishedThreads():0 - Raising thread finish event...
+
+2021-04-12 14:47:52,205 [MonitorThread] DEBUG Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:LogHandler:126] - ExecutionContext:Run():0 - Thread completed successfully:15
+
+2021-04-12 14:47:52,205 [MonitorThread] DEBUG Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:LogHandler:126] - GApplication:GetFinishedThreads():0 - Raising thread finish event...
+
+2021-04-12 14:47:52,915 [MonitorThread] DEBUG Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:LogHandler:126] - ExecutionContext:Run():0 - Threads finished this poll...0
+
+2021-04-12 14:47:52,916 [MonitorThread] DEBUG Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:LogHandler:126] - ExecutionContext:Run():0 - Total Threads finished so far...16
+
+2021-04-12 14:47:53,622 [MonitorThread] DEBUG Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:LogHandler:126] - ExecutionContext:Run():0 - Threads finished this poll...0
+
+2021-04-12 14:47:53,622 [MonitorThread] DEBUG Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:LogHandler:126] - ExecutionContext:Run():0 - Total Threads finished so far...16
+
+2021-04-12 14:47:54,331 [MonitorThread] DEBUG Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:LogHandler:126] - ExecutionContext:Run():0 - Threads finished this poll...0
+
+2021-04-12 14:47:54,331 [MonitorThread] DEBUG Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:LogHandler:126] - ExecutionContext:Run():0 - Total Threads finished so far...16
+
+2021-04-12 14:47:55,034 [MonitorThread] DEBUG Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:LogHandler:126] - ExecutionContext:Run():0 - Threads finished this poll...0
+
+2021-04-12 14:47:55,034 [MonitorThread] DEBUG Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:LogHandler:126] - ExecutionContext:Run():0 - Total Threads finished so far...16
+
+2021-04-12 14:47:55,740 [MonitorThread] DEBUG Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:LogHandler:126] - ExecutionContext:Run():0 - Threads finished this poll...0
+
+2021-04-12 14:47:55,740 [MonitorThread] DEBUG Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:LogHandler:126] - ExecutionContext:Run():0 - Total Threads finished so far...16
+
+2021-04-12 14:47:56,442 [MonitorThread] DEBUG Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:LogHandler:126] - ExecutionContext:Run():0 - Threads finished this poll...1
+
+2021-04-12 14:47:56,442 [MonitorThread] DEBUG Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:LogHandler:126] - ExecutionContext:Run():0 - Total Threads finished so far...17
+
+2021-04-12 14:47:56,445 [MonitorThread] DEBUG Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:LogHandler:126] - ExecutionContext:Run():0 - Thread completed successfully:16
+
+2021-04-12 14:47:56,445 [MonitorThread] DEBUG Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:LogHandler:126] - GApplication:GetFinishedThreads():0 - Raising thread finish event...
+
+2021-04-12 14:47:57,152 [MonitorThread] DEBUG Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:LogHandler:126] - ExecutionContext:Run():0 - Threads finished this poll...0
+
+2021-04-12 14:47:57,152 [MonitorThread] DEBUG Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:LogHandler:126] - ExecutionContext:Run():0 - Total Threads finished so far...17
+
+2021-04-12 14:47:58,568 [MonitorThread] DEBUG Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:LogHandler:126] - ExecutionContext:Run():0 - Threads finished this poll...1
+
+2021-04-12 14:47:58,568 [MonitorThread] DEBUG Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:LogHandler:126] - ExecutionContext:Run():0 - Total Threads finished so far...18
+
+2021-04-12 14:47:58,570 [MonitorThread] DEBUG Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:LogHandler:126] - ExecutionContext:Run():0 - Thread completed successfully:17
+
+2021-04-12 14:47:58,570 [MonitorThread] DEBUG Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:LogHandler:126] - GApplication:GetFinishedThreads():0 - Raising thread finish event...
+
+2021-04-12 14:47:59,288 [MonitorThread] DEBUG Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:LogHandler:126] - ExecutionContext:Run():0 - Threads finished this poll...1
+
+2021-04-12 14:47:59,288 [MonitorThread] DEBUG Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:LogHandler:126] - ExecutionContext:Run():0 - Total Threads finished so far...19
+
+2021-04-12 14:47:59,289 [MonitorThread] DEBUG Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:LogHandler:126] - ExecutionContext:Run():0 - Thread completed successfully:18
+
+2021-04-12 14:47:59,291 [MonitorThread] DEBUG Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:LogHandler:126] - GApplication:GetFinishedThreads():0 - Raising thread finish event...
+
+2021-04-12 14:48:04,957 [MonitorThread] DEBUG Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:LogHandler:126] - ExecutionContext:Run():0 - Threads finished this poll...1
+
+2021-04-12 14:48:04,958 [MonitorThread] DEBUG Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:LogHandler:126] - ExecutionContext:Run():0 - Total Threads finished so far...20
+
+2021-04-12 14:48:04,960 [MonitorThread] DEBUG Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:LogHandler:126] - ExecutionContext:Run():0 - Thread completed successfully:19
+
+2021-04-12 14:48:04,960 [MonitorThread] DEBUG Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:LogHandler:126] - GApplication:GetFinishedThreads():0 - Raising thread finish event...
+
+2021-04-12 14:48:04,960 [MonitorThread] DEBUG Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:LogHandler:126] - ExecutionContext:Run():0 - Application finished!fa0df984-d077-46c9-89d7-0a9c1b2e337e
+
+2021-04-12 14:48:04,961 [MonitorThread] DEBUG Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:LogHandler:126] - ExecutionContext:Run():0 - SingleUse-Application finished cleaning up...fa0df984-d077-46c9-89d7-0a9c1b2e337e
+
+2021-04-12 14:48:05,120 [MonitorThread] DEBUG Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:LogHandler:126] - ExecutionContext:Run():0 - Raising AppFinish event (for single-use app)...fa0df984-d077-46c9-89d7-0a9c1b2e337e
+
+2021-04-12 14:48:05,121 [MonitorThread] INFO  Alchemi.Examples.PiCalculator.PiCalculatorMain [(null)] [{log4net:HostName=DESKTOP-HKSNI3V}] [D:\Nam 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\PiCalculatorMain.cs:LogHandler:129] - GetFinishedThreads thread exited...
+

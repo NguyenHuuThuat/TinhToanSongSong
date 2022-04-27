@@ -1,0 +1,3 @@
+﻿cl : command line warning D9025: overriding '/sdl' with '/GS-'
+  Source.cpp
+  Multi_matrix_TT.vcxproj -> D:\Năm 3\20202\Tính toán song song\CODE\OpenMP\Debug\Multi_matrix_TT.exe

@@ -1,0 +1,20 @@
+E:\1_Cong viec\HUT\Parallel_Computing\Bai_Giang_Trung\Alchemi\PiCalculator\PiCalculatorExec\bin\Debug\PiCalculator.exe.config
+E:\1_Cong viec\HUT\Parallel_Computing\Bai_Giang_Trung\Alchemi\PiCalculator\PiCalculatorExec\bin\Debug\PiCalculator.exe
+E:\1_Cong viec\HUT\Parallel_Computing\Bai_Giang_Trung\Alchemi\PiCalculator\PiCalculatorExec\bin\Debug\PiCalculator.pdb
+E:\1_Cong viec\HUT\Parallel_Computing\Bai_Giang_Trung\Alchemi\PiCalculator\PiCalculatorExec\bin\Debug\PiCalculatorLib.dll
+E:\1_Cong viec\HUT\Parallel_Computing\Bai_Giang_Trung\Alchemi\PiCalculator\PiCalculatorExec\bin\Debug\PiCalculatorLib.pdb
+E:\1_Cong viec\HUT\Parallel_Computing\Bai_Giang_Trung\Alchemi\PiCalculator\PiCalculatorExec\bin\Debug\Alchemi.Core.xml
+E:\1_Cong viec\HUT\Parallel_Computing\Bai_Giang_Trung\Alchemi\PiCalculator\PiCalculatorExec\obj\Debug\ResolveAssemblyReference.cache
+E:\1_Cong viec\HUT\Parallel_Computing\Bai_Giang_Trung\Alchemi\PiCalculator\PiCalculatorExec\obj\Debug\PiCalculator.exe
+E:\1_Cong viec\HUT\Parallel_Computing\Bai_Giang_Trung\Alchemi\PiCalculator\PiCalculatorExec\obj\Debug\PiCalculator.pdb
+D:\Năm 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\bin\Debug\PiCalculator.exe.config
+D:\Năm 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\bin\Debug\PiCalculator.exe
+D:\Năm 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\bin\Debug\PiCalculator.pdb
+D:\Năm 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\bin\Debug\PiCalculatorLib.dll
+D:\Năm 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\bin\Debug\PiCalculatorLib.pdb
+D:\Năm 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\bin\Debug\Alchemi.Core.xml
+D:\Năm 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\obj\Debug\PiCalculatorExec.csprojAssemblyReference.cache
+D:\Năm 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\obj\Debug\PiCalculatorExec.csproj.CoreCompileInputs.cache
+D:\Năm 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\obj\Debug\PiCalculatorExec.csproj.CopyComplete
+D:\Năm 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\obj\Debug\PiCalculator.exe
+D:\Năm 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculatorExec\obj\Debug\PiCalculator.pdb

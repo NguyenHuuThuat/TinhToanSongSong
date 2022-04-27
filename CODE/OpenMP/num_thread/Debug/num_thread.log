@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\Năm 3\20202\Tính toán song song\CODE\OpenMP\num_thread\Source.cpp(6,16): warning C4101: 'tid': unreferenced local variable
+D:\Năm 3\20202\Tính toán song song\CODE\OpenMP\num_thread\Source.cpp(6,6): warning C4101: 'nthreads': unreferenced local variable
+  num_thread.vcxproj -> D:\Năm 3\20202\Tính toán song song\CODE\OpenMP\Debug\num_thread.exe

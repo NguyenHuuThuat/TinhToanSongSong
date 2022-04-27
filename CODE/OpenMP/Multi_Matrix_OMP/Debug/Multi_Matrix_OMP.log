@@ -1,0 +1,2 @@
+﻿MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol _main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+D:\Năm 3\20202\Tính toán song song\CODE\OpenMP\Debug\Multi_Matrix_OMP.exe : fatal error LNK1120: 1 unresolved externals

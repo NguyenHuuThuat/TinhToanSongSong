@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(519,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Multi_Matrix_OMP_2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+cl : command line warning D9025: overriding '/sdl' with '/GS-'
+  Source.cpp
+D:\Năm 3\20202\Tính toán song song\CODE\OpenMP\Multi_Matrix_OMP_2\Source.cpp(121,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Multi_Matrix_OMP_2.vcxproj -> D:\Năm 3\20202\Tính toán song song\CODE\OpenMP\Debug\Multi_Matrix_OMP.exe

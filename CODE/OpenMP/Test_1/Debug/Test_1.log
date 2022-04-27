@@ -1,0 +1,5 @@
+﻿cl : command line warning D9025: overriding '/sdl' with '/GS-'
+  master.cpp
+D:\Năm 3\20202\Tính toán song song\CODE\OpenMP\Test_1\master.cpp(5,9): warning C4068: unknown pragma 'parallel'
+ordered.obj : error LNK2005: _main already defined in master.obj
+D:\Nam 3\20202\Tính toán song song\CODE\OpenMP\Debug\Test_1.exe : fatal error LNK1169: one or more multiply defined symbols found

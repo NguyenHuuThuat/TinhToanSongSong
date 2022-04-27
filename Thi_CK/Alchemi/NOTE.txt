@@ -1,0 +1,30 @@
+khoảng cách tính bằng ký tự.
+
+quan tâm đến dấu "."
+
+14-16: đếm + duyệt tất cả các phần tử trong mảng
+
+
+
+j = -1 : không có sami
+
+
+chú ý có dấu xuống dòng: tính 2 ký tự
+\n : 2 ký tự
+\tab: 1 ký tự
+
+
+Song song:
+GApp: tạo liên kết vs manager, đăng nhập user
+Mô hình: user gửi chương trình cho manager => chia luồng
+
+
+. sau dấu chấm cuối cùng có thêm 1 câu nữa
+
+sentencessPẻThread = 5 : số câu mà mỗi luồng thực hiện
+
+2 dòng đầu: đọc file
+3 dòng: khởi taioj biến
+
+
+[STAThread] : const

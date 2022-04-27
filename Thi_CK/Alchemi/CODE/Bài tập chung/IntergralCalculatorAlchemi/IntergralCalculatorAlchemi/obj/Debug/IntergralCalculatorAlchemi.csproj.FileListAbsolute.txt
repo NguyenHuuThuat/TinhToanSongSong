@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\TTSS\IntergralCalculatorAlchemi\IntergralCalculatorAlchemi\bin\Debug\IntergralCalculatorAlchemi.exe
+C:\Users\Admin\source\repos\TTSS\IntergralCalculatorAlchemi\IntergralCalculatorAlchemi\bin\Debug\IntergralCalculatorAlchemi.pdb
+C:\Users\Admin\source\repos\TTSS\IntergralCalculatorAlchemi\IntergralCalculatorAlchemi\obj\Debug\IntergralCalculatorAlchemi.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\TTSS\IntergralCalculatorAlchemi\IntergralCalculatorAlchemi\obj\Debug\IntergralCalculatorAlchemi.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\TTSS\IntergralCalculatorAlchemi\IntergralCalculatorAlchemi\obj\Debug\IntergralCalculatorAlchemi.csproj.CopyComplete
+C:\Users\Admin\source\repos\TTSS\IntergralCalculatorAlchemi\IntergralCalculatorAlchemi\obj\Debug\IntergralCalculatorAlchemi.exe
+C:\Users\Admin\source\repos\TTSS\IntergralCalculatorAlchemi\IntergralCalculatorAlchemi\obj\Debug\IntergralCalculatorAlchemi.pdb

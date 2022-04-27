@@ -1,0 +1,15 @@
+H:\Uni\20202\Parallel Programming\End term\Endterm\SAMI_Detector_parallel\Parallel_Search_String\bin\Debug\Parallel_Search_String.exe
+H:\Uni\20202\Parallel Programming\End term\Endterm\SAMI_Detector_parallel\Parallel_Search_String\bin\Debug\Parallel_Search_String.pdb
+H:\Uni\20202\Parallel Programming\End term\Endterm\SAMI_Detector_parallel\Parallel_Search_String\bin\Debug\Alchemi.Core.dll
+H:\Uni\20202\Parallel Programming\End term\Endterm\SAMI_Detector_parallel\Parallel_Search_String\obj\Debug\Parallel_Search_String.csprojAssemblyReference.cache
+H:\Uni\20202\Parallel Programming\End term\Endterm\SAMI_Detector_parallel\Parallel_Search_String\obj\Debug\Parallel_Search_String.csproj.CoreCompileInputs.cache
+H:\Uni\20202\Parallel Programming\End term\Endterm\SAMI_Detector_parallel\Parallel_Search_String\obj\Debug\Parallel_Search_String.csproj.CopyComplete
+H:\Uni\20202\Parallel Programming\End term\Endterm\SAMI_Detector_parallel\Parallel_Search_String\obj\Debug\Parallel_Search_String.exe
+H:\Uni\20202\Parallel Programming\End term\Endterm\SAMI_Detector_parallel\Parallel_Search_String\obj\Debug\Parallel_Search_String.pdb
+D:\Năm 3\20202\Tính toán song song\Thi_CK\CODE\Parallel_Search_String\bin\Debug\Parallel_Search_String.exe
+D:\Năm 3\20202\Tính toán song song\Thi_CK\CODE\Parallel_Search_String\bin\Debug\Parallel_Search_String.pdb
+D:\Năm 3\20202\Tính toán song song\Thi_CK\CODE\Parallel_Search_String\obj\Debug\Parallel_Search_String.csprojAssemblyReference.cache
+D:\Năm 3\20202\Tính toán song song\Thi_CK\CODE\Parallel_Search_String\obj\Debug\Parallel_Search_String.csproj.CoreCompileInputs.cache
+D:\Năm 3\20202\Tính toán song song\Thi_CK\CODE\Parallel_Search_String\obj\Debug\Parallel_Search_String.csproj.CopyComplete
+D:\Năm 3\20202\Tính toán song song\Thi_CK\CODE\Parallel_Search_String\obj\Debug\Parallel_Search_String.exe
+D:\Năm 3\20202\Tính toán song song\Thi_CK\CODE\Parallel_Search_String\obj\Debug\Parallel_Search_String.pdb

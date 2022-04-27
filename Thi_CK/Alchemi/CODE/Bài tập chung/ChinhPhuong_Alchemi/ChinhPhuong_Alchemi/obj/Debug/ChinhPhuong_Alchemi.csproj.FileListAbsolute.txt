@@ -1,0 +1,7 @@
+D:\Năm 3\20202\Tính toán song song\Thi_CK\CODE\HT\ChinhPhuong_Alchemi\ChinhPhuong_Alchemi\bin\Debug\ChinhPhuong_Alchemi.exe
+D:\Năm 3\20202\Tính toán song song\Thi_CK\CODE\HT\ChinhPhuong_Alchemi\ChinhPhuong_Alchemi\bin\Debug\ChinhPhuong_Alchemi.pdb
+D:\Năm 3\20202\Tính toán song song\Thi_CK\CODE\HT\ChinhPhuong_Alchemi\ChinhPhuong_Alchemi\obj\Debug\ChinhPhuong_Alchemi.csproj.CoreCompileInputs.cache
+D:\Năm 3\20202\Tính toán song song\Thi_CK\CODE\HT\ChinhPhuong_Alchemi\ChinhPhuong_Alchemi\obj\Debug\ChinhPhuong_Alchemi.csproj.CopyComplete
+D:\Năm 3\20202\Tính toán song song\Thi_CK\CODE\HT\ChinhPhuong_Alchemi\ChinhPhuong_Alchemi\obj\Debug\ChinhPhuong_Alchemi.exe
+D:\Năm 3\20202\Tính toán song song\Thi_CK\CODE\HT\ChinhPhuong_Alchemi\ChinhPhuong_Alchemi\obj\Debug\ChinhPhuong_Alchemi.pdb
+D:\Năm 3\20202\Tính toán song song\Thi_CK\CODE\HT\ChinhPhuong_Alchemi\ChinhPhuong_Alchemi\obj\Debug\ChinhPhuong_Alchemi.csprojAssemblyReference.cache

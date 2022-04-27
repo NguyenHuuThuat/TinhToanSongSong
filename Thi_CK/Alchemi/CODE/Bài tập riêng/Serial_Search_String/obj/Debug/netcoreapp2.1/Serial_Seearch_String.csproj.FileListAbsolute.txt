@@ -1,0 +1,12 @@
+H:\Uni\20202\Parallel Programming\End term\Endterm\SAMI_Detector\Serial_Algorithm\Serial_Seearch_String\bin\Debug\netcoreapp2.1\Serial_Seearch_String.deps.json
+H:\Uni\20202\Parallel Programming\End term\Endterm\SAMI_Detector\Serial_Algorithm\Serial_Seearch_String\bin\Debug\netcoreapp2.1\Serial_Seearch_String.runtimeconfig.json
+H:\Uni\20202\Parallel Programming\End term\Endterm\SAMI_Detector\Serial_Algorithm\Serial_Seearch_String\bin\Debug\netcoreapp2.1\Serial_Seearch_String.runtimeconfig.dev.json
+H:\Uni\20202\Parallel Programming\End term\Endterm\SAMI_Detector\Serial_Algorithm\Serial_Seearch_String\bin\Debug\netcoreapp2.1\Serial_Seearch_String.dll
+H:\Uni\20202\Parallel Programming\End term\Endterm\SAMI_Detector\Serial_Algorithm\Serial_Seearch_String\bin\Debug\netcoreapp2.1\Serial_Seearch_String.pdb
+H:\Uni\20202\Parallel Programming\End term\Endterm\SAMI_Detector\Serial_Algorithm\Serial_Seearch_String\obj\Debug\netcoreapp2.1\Serial_Seearch_String.csprojAssemblyReference.cache
+H:\Uni\20202\Parallel Programming\End term\Endterm\SAMI_Detector\Serial_Algorithm\Serial_Seearch_String\obj\Debug\netcoreapp2.1\Serial_Seearch_String.AssemblyInfoInputs.cache
+H:\Uni\20202\Parallel Programming\End term\Endterm\SAMI_Detector\Serial_Algorithm\Serial_Seearch_String\obj\Debug\netcoreapp2.1\Serial_Seearch_String.AssemblyInfo.cs
+H:\Uni\20202\Parallel Programming\End term\Endterm\SAMI_Detector\Serial_Algorithm\Serial_Seearch_String\obj\Debug\netcoreapp2.1\Serial_Seearch_String.csproj.CoreCompileInputs.cache
+H:\Uni\20202\Parallel Programming\End term\Endterm\SAMI_Detector\Serial_Algorithm\Serial_Seearch_String\obj\Debug\netcoreapp2.1\Serial_Seearch_String.dll
+H:\Uni\20202\Parallel Programming\End term\Endterm\SAMI_Detector\Serial_Algorithm\Serial_Seearch_String\obj\Debug\netcoreapp2.1\Serial_Seearch_String.pdb
+H:\Uni\20202\Parallel Programming\End term\Endterm\SAMI_Detector\Serial_Algorithm\Serial_Seearch_String\obj\Debug\netcoreapp2.1\Serial_Seearch_String.genruntimeconfig.cache

@@ -1,0 +1,6 @@
+D:\Năm 3\20202\Tính toán song song\Thi_CK\CODE\Serial_ChinhPhuong\ChinhPhuong_TT\ChinhPhuong_TT\bin\Debug\ChinhPhuong_TT.exe
+D:\Năm 3\20202\Tính toán song song\Thi_CK\CODE\Serial_ChinhPhuong\ChinhPhuong_TT\ChinhPhuong_TT\bin\Debug\ChinhPhuong_TT.pdb
+D:\Năm 3\20202\Tính toán song song\Thi_CK\CODE\Serial_ChinhPhuong\ChinhPhuong_TT\ChinhPhuong_TT\obj\Debug\ChinhPhuong_TT.csprojAssemblyReference.cache
+D:\Năm 3\20202\Tính toán song song\Thi_CK\CODE\Serial_ChinhPhuong\ChinhPhuong_TT\ChinhPhuong_TT\obj\Debug\ChinhPhuong_TT.csproj.CoreCompileInputs.cache
+D:\Năm 3\20202\Tính toán song song\Thi_CK\CODE\Serial_ChinhPhuong\ChinhPhuong_TT\ChinhPhuong_TT\obj\Debug\ChinhPhuong_TT.exe
+D:\Năm 3\20202\Tính toán song song\Thi_CK\CODE\Serial_ChinhPhuong\ChinhPhuong_TT\ChinhPhuong_TT\obj\Debug\ChinhPhuong_TT.pdb

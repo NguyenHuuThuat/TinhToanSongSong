@@ -1,0 +1,14 @@
+C:\Documents and Settings\admin\Desktop\PiCalculator\PiCalculator\bin\Debug\PiCalculatorLib.dll
+C:\Documents and Settings\admin\Desktop\PiCalculator\PiCalculator\bin\Debug\PiCalculatorLib.pdb
+C:\Documents and Settings\admin\Desktop\PiCalculator\PiCalculator\bin\Debug\Alchemi.Core.xml
+C:\Documents and Settings\admin\Desktop\PiCalculator\PiCalculator\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\admin\Desktop\PiCalculator\PiCalculator\obj\Debug\PiCalculatorLib.dll
+C:\Documents and Settings\admin\Desktop\PiCalculator\PiCalculator\obj\Debug\PiCalculatorLib.pdb
+D:\Năm 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculator\bin\Debug\PiCalculatorLib.dll
+D:\Năm 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculator\bin\Debug\PiCalculatorLib.pdb
+D:\Năm 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculator\bin\Debug\Alchemi.Core.xml
+D:\Năm 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculator\obj\Debug\PiCalculator.csprojAssemblyReference.cache
+D:\Năm 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculator\obj\Debug\PiCalculator.csproj.CoreCompileInputs.cache
+D:\Năm 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculator\obj\Debug\PiCalculator.csproj.CopyComplete
+D:\Năm 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculator\obj\Debug\PiCalculatorLib.dll
+D:\Năm 3\20202\Tính toán song song\Alchemi\PiCalculator\PiCalculator\obj\Debug\PiCalculatorLib.pdb

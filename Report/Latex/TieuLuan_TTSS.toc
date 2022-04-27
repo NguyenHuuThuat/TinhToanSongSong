@@ -1,0 +1,65 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Danh mục thuật ngữ}{3}{Doc-Start}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{MỞ ĐẦU}{5}{Doc-Start}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1}Một số kiến thức cơ bản về Deep Learning}{6}{section.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.1}Một số khái niệm}{6}{subsection.1.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.2}Mạng nơ-ron sâu (Deep Neural Networks)}{6}{subsection.1.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.2.1}Nơ-ron}{6}{subsubsection.1.2.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.2.2}Mạng nơ ron}{7}{subsubsection.1.2.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.3}Các yếu tố trong huấn luyện một mô hình Mạng Nơ-ron}{8}{subsection.1.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2}Kiến trúc máy tính song song}{9}{section.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.1}Máy tính song song đơn (Single-machine Parallelism)}{9}{subsection.2.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2}Đa máy tính song song (multi-machine Parallelism)}{11}{subsection.2.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.3}Lập trình song song (Parallel Programming)}{11}{subsection.2.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.4}Thuật toán song song (Parallel Algorithms)}{12}{subsection.2.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3}Tìm hiểu về Hệ thống học sâu phân tán}{13}{section.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.1}Định nghĩa}{13}{subsection.3.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.2}Những vấn đề khi phát triển một hệ thống học sâu phân tán}{13}{subsection.3.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.3}Các chiến lược song song}{14}{subsection.3.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.3.1}Song song dữ liệu (Data Parallelism)}{14}{subsubsection.3.3.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.3.2}Song song mô hình (Model Parallelism)}{15}{subsubsection.3.3.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.3.3}Kỹ thuật đường ống (Pipelining)}{16}{subsubsection.3.3.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4}Các thuật toán tối ưu hóa phân tán}{18}{section.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.1}Downpour SGD}{18}{subsection.4.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.2}Sandblaster L-BFGS}{19}{subsection.4.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5}Tìm hiểu về Đào tạo TensorFlow phân tán (Distributed TensorFlow training) }{21}{section.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.1}TensorFlow là gì?}{21}{subsection.5.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.2}TensorFlow API}{21}{subsection.5.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6}Kết quả (trích dẫn từ một số bài báo khoa học)}{23}{section.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.1}Kết quả nghiên cứu của các Giáo sư, Chuyên gia của Google Inc }{23}{subsection.6.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.2}Áp dụng phương pháp đào tạo học sâu phân tán của phòng nghiên cứu MIT Lincoln}{26}{subsection.6.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7}Kết quả chương trình Demo}{28}{section.7}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {8}Kết luận}{30}{section.8}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Tài liệu tham khảo}{32}{Item.55}%

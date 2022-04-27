@@ -1,0 +1,6 @@
+﻿cl : command line warning D9025: overriding '/sdl' with '/GS-'
+  Source.cpp
+D:\Năm 3\20202\Tính toán song song\Thi_GK\CODE\Tong_hop\CODE_GK_OMP\CODE_GK_OMP\Source.cpp(198,6): warning C4101: 'Row': unreferenced local variable
+D:\Năm 3\20202\Tính toán song song\Thi_GK\CODE\Tong_hop\CODE_GK_OMP\CODE_GK_OMP\Source.cpp(199,6): warning C4101: 'Col': unreferenced local variable
+D:\Năm 3\20202\Tính toán song song\Thi_GK\CODE\Tong_hop\CODE_GK_OMP\CODE_GK_OMP\Source.cpp(197,10): warning C4101: 'pVector': unreferenced local variable
+  CODE_GK_OMP.vcxproj -> D:\Năm 3\20202\Tính toán song song\Thi_GK\CODE\Tong_hop\CODE_GK_OMP\Debug\CODE_GK_OMP.exe
